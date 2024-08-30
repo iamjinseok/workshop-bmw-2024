@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace BicycleSharingSystem.Kiosk.Views;
+namespace BicycleSharingSystem.Kiosk;
 
 public partial class MainWindow : Window
 {

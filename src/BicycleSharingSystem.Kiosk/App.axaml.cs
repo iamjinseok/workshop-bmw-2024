@@ -4,7 +4,7 @@ using Avalonia.Data.Core;
 using Avalonia.Data.Core.Plugins;
 using Avalonia.Markup.Xaml;
 using BicycleSharingSystem.Kiosk.ViewModels;
-using BicycleSharingSystem.Kiosk.Views;
+using BicycleSharingSystem.Kiosk;
 
 namespace BicycleSharingSystem.Kiosk;
 
