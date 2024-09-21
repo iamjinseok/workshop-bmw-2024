@@ -6,7 +6,7 @@
 - MAUI로 모바일 앱 만들기
   - 모바일 푸시 받아보기
 - 다양한 크로스 플랫폼 어플리케이션 개발 경험
-  - Uno
+  - Uno-Platform
   - Avalonia
 - .NET Backend 개발
   - Aspire
